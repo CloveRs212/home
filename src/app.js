@@ -1,9 +1,11 @@
 import React from 'react'
 
+import { article, brand, cta, features, navbar } from './components'
+
 const app = () => {
   return (
     <div>
-      <h1>GPT-3</h1>
+      
     </div>
   )
 }
